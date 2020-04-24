@@ -1,24 +1,24 @@
 {
     "loginPage": [
         {
-            "ExpectedTime": 1000
+            "ExpectedTime": 77
         },
         {
-            "ActualTime": 88
+            "ActualTime": 79
         },
         {
             "ExpectedTimeStatus": "grey"
         },
         {
-            "ActualTimeStatus": "green"
+            "ActualTimeStatus": "red"
         }
     ],
     "timeline": [
         {
-            "ExpectedTime": 1000
+            "ExpectedTime": 77
         },
         {
-            "ActualTime": 72
+            "ActualTime": 70
         },
         {
             "ExpectedTimeStatus": "grey"
