@@ -15,10 +15,10 @@
     ],
     "timeline": [
         {
-            "ExpectedTime": 77
+            "ExpectedTime": 200
         },
         {
-            "ActualTime": 70
+            "ActualTime": 90
         },
         {
             "ExpectedTimeStatus": "grey"
@@ -29,10 +29,24 @@
     ],
     "news": [
         {
-            "ExpectedTime": 77
+            "ExpectedTime": 100
         },
         {
-            "ActualTime": 110
+            "ActualTime": 120
+        },
+        {
+            "ExpectedTimeStatus": "grey"
+        },
+        {
+            "ActualTimeStatus": "red"
+        }
+    ],
+    "events": [
+        {
+            "ExpectedTime": 100
+        },
+        {
+            "ActualTime": 75
         },
         {
             "ExpectedTimeStatus": "grey"
