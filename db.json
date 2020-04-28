@@ -54,19 +54,5 @@
         {
             "ActualTimeStatus": "green"
         }
-    ],
-    "groups": [
-        {
-            "ExpectedTime": 77
-        },
-        {
-            "ActualTime": 120
-        },
-        {
-            "ExpectedTimeStatus": "grey"
-        },
-        {
-            "ActualTimeStatus": "green"
-        }
     ]
 }
