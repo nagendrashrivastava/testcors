@@ -26,33 +26,5 @@
         {
             "ActualTimeStatus": "green"
         }
-    ],
-    "events": [
-        {
-            "ExpectedTime": 77
-        },
-        {
-            "ActualTime": 100
-        },
-        {
-            "ExpectedTimeStatus": "grey"
-        },
-        {
-            "ActualTimeStatus": "green"
-        }
-    ],
-    "news": [
-        {
-            "ExpectedTime": 77
-        },
-        {
-            "ActualTime": 35
-        },
-        {
-            "ExpectedTimeStatus": "grey"
-        },
-        {
-            "ActualTimeStatus": "green"
-        }
     ]
 }
