@@ -26,5 +26,19 @@
         {
             "ActualTimeStatus": "green"
         }
+    ],
+    "news": [
+        {
+            "ExpectedTime": 77
+        },
+        {
+            "ActualTime": 70
+        },
+        {
+            "ExpectedTimeStatus": "grey"
+        },
+        {
+            "ActualTimeStatus": "green"
+        }
     ]
 }
